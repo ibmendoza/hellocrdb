@@ -1,3 +1,3 @@
 {
-  "id": "hellocrdb-pogi"
+  "id": "my-app-name-togi"
 }
